@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536516718 source:d:\doc\intro data struct\python2cpp\more_than_half\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
