@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535634960 source:d:\doc\intro data struct\python2cpp\winner\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<sstream>
+

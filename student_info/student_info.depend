@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536145068 source:d:\doc\intro data struct\python2cpp\student_info\main.cpp
+	<iostream>
+	<set>
+	<vector>
+	<map>
+	<algorithm>
+	<sstream>
+
